@@ -9,7 +9,7 @@
 
 
 ## Assignment
--  Built a small library app that keeps track of book read
+-  Build a small library app that keeps track of book read
 
 ## Learning outcomes from this project
 - **DOM** manipulation
