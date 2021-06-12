@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/styles.css">
+  <script defer src="./js/script.js"></script>
+  <title>MyBookshelf</title>
+</head>
+<body>
+  <div id="bookshelf-container">
+    <h1><img class="logo-image" src="./assets/img/open-book.png" alt="logo-image">myBookShelf</h1>
+    <button class="btn add-book-btn">+ Add a book</button>
+    <form id="new-book-inputs">
+      <div class="close-form"></div>
+      <h2>Add a new book</h2>
+      <input type="text" id="book-title" placeholder="Title" required minlength="3">
+      <input type="text" id="book-author" placeholder="Author" required minlength="3">
+      <input type="number" id="book-pages" placeholder="Number of pages">
+      <span class="read-status-span">Have you read the book?</span>
+      <label class="switch">
+        <input type="checkbox" id="book-status">
+        <span class="slider"></span>
+      </label>
+      <input type="submit" value="Submit" class="btn">
+    </form>
+    <div id="book-list">
+      <p id="empty-message">Your bookshelf is empty!</p>
+      <table id="book-table">
+        <thead>
+          <tr class="thead-row">
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pages</th>
+            <th>Read?</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="book-table-body">
+        </tbody>
+      </table>
+  </div>
+  </div>
+ 
+</body>
+</html>
