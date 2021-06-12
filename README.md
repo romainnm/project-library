@@ -20,7 +20,7 @@
 ### Project built with:
 <img src="https://image.flaticon.com/icons/png/512/136/136528.png" width="30"><img src="https://image.flaticon.com/icons/png/512/136/136527.png" width="30"><img src="https://image.flaticon.com/icons/png/512/136/136530.png" width="30">
 
-## About Me :sunny:
+## :cactus: About Me :cactus:
 
 Hello world! I am **Romain** and I have a background in **web design**. 
 
