@@ -18,6 +18,4 @@
 - Learn how to use Firebase to set an online database
 
 ### Built with
-<img src="https://image.flaticon.com/icons/png/512/136/136528.png" width="40">
-<img src="https://image.flaticon.com/icons/png/512/136/136527.png" width="40">
-<img src="https://image.flaticon.com/icons/png/512/136/136530.png" width="40">
+<img src="https://image.flaticon.com/icons/png/512/136/136528.png" width="40"><img src="https://image.flaticon.com/icons/png/512/136/136527.png" width="40"><img src="https://image.flaticon.com/icons/png/512/136/136530.png" width="40">
