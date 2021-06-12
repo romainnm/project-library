@@ -1,11 +1,11 @@
 # Library App
 
-This project is part of the JavaScript Course made by [The Odin Project](www.theodinproject.com) - <img src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg" width="12"> :heart:
+This project is part of the JavaScript Course made by [The Odin Project](www.theodinproject.com) - <img src="https://www.theodinproject.com/assets/odin-logo-bd86cf893a3de1f1daceabc1377f58669776616a91ab70c601fd5c16a4686468.svg" width="15"> 
 
 ### Project built with:
 <img src="https://image.flaticon.com/icons/png/512/136/136528.png" width="25"><img src="https://image.flaticon.com/icons/png/512/136/136527.png" width="25"><img src="https://image.flaticon.com/icons/png/512/136/136530.png" width="25">
 
-**Live demo:** [Click here to see the demo](https://romainnm.github.io/project-library/) 
+**Live demo:** [Click here to see the demo](https://romainnm.github.io/project-library/) :heart:
 
 
 ## Assignment
