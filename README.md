@@ -19,3 +19,11 @@
 
 ### Built with
 <img src="https://image.flaticon.com/icons/png/512/136/136528.png" width="40"><img src="https://image.flaticon.com/icons/png/512/136/136527.png" width="40"><img src="https://image.flaticon.com/icons/png/512/136/136530.png" width="40">
+
+## About Me :sunny:
+
+Hello world! I am **Romain** and I have a background in **web design**. 
+
+I am currently trying to strenghen my **front-end** skills by learning **JavaScript & React** throught The Odin Project which has great resources for self-learning!
+
+Happy learning everyone! :v:
