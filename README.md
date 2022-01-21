@@ -17,7 +17,7 @@ This project is part of the JavaScript Course made by [The Odin Project](www.the
 - Use of **localStorage** to to save data on the client side
 
 ## How this project can be optimized
-- Refactor the CSS to make the app friendly to mobile and small screens
+- Refactor the CSS to make the app friendly to mobile and smaller screens
 - Learn how to use Firebase to set an online database
 
 ## :cactus: About Me :cactus:
